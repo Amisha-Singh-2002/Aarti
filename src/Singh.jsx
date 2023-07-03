@@ -18,7 +18,7 @@ function Singh() {
     <div className='a1'>
       
       <Modal open={open} onClose={onCloseModal} center>
-      <ReactPlayer url='https://www.youtube.com/shorts/n1mpdDjvS-E' controls={true} playing={true}/>
+      <ReactPlayer url='https://youtu.be/6Lw64F4ZWvU' controls={true} playing={true}/>
       
       </Modal>
         <div className='a2'>
