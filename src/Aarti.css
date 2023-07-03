@@ -1,0 +1,71 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Clicker+Script&family=Titillium+Web:wght@300&display=swap');
+
+.outerdiv{
+ 
+  max-height: 100vh;
+max-width: 100vw;
+  height: 100vh;
+  width: 100vw;
+ 
+ 
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.innerdiv1
+{
+  /* background-color: rgb(55, 255, 0); */
+  /* background:url(https://img1.picmix.com/output/pic/normal/3/1/8/0/10120813_af74b.gif);
+  background-size: cover; */
+  /* max-width: 20vw;
+  height: 50vh;
+  width:50vw;
+  border-radius: 1%; */
+
+}
+.innerdiv2{
+ 
+/* background:url("https://res.cloudinary.com/dvcap6b9a/image/upload/v1688373469/aarti_pic_hpr4g2.jpg");
+background-size: 100px; */
+
+
+  
+}
+.innerdiv1,.innerdiv2,.innerdiv3{
+  max-width: 20vw;
+  height:50vh;
+  width:50vw;
+  text-align:center;
+}
+.aarti{
+border-radius: 40%;
+width: 20vw;
+
+
+
+
+
+}
+.singh{
+  background:url("https://wallpapercave.com/wp/wp3284839.gif");
+  background-size: cover;
+
+}
+.inner4{
+  color: beige;
+  font-family: Clicker Script;
+  font-size: 50px;
+  height: 100vh;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+p{
+  text-align: center;
+
+}
+  
